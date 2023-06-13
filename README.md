@@ -1,2 +1,4 @@
-# SolarSystem
-Testing Unity Mechanics
+# Solar-System
+ Testing Unity mechanics
+
+Tap "Spacebar" to Pause/Play.
